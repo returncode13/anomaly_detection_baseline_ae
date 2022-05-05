@@ -9,5 +9,6 @@ scipy==1.8.0
 librosa==0.9.1
 audioread==2.1.9
 setuptools==60.9.3
-tensorflow==2.8.0
+#tensorflow==2.8.0
 tqdm==4.63.0
+jupyterlab

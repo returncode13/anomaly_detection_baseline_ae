@@ -1,0 +1,28 @@
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+__pycache__
+*/__pycache__/*
+
+
+AutoViz_Plots
+*/AutoViz_Plots/*
+
+*.h5
+*/HDF5 datasets/*
+
+*.pkl
+*/Pickle files/*
+
+**/runs/
+*/Tensorboard runs/*
+
+**/checkpoints/
+*/model training checkpoints/*
+
+
+*.png
+**/PNGS/**
+
+*.pth
+**/any checkpoints/
